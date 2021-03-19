@@ -13,7 +13,7 @@ Django==2.1.5
 django-debug-toolbar==1.11
 django-filter==2.1.0
 django-polymorphic==2.0.3
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 -e git+https://github.com/django-json-api/django-rest-framework-json-api.git@48653831b413f8e23ffb2c14836a94bb4eccc9bd#egg=djangorestframework_jsonapi
 docutils==0.14
 factory-boy==2.11.1
